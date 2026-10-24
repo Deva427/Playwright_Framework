@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+  "test:e2e": "cucumber-js" 
+},
+  
   "keywords": [],
   "type": "commonjs",
   "devDependencies": {
