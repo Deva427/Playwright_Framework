@@ -11,7 +11,7 @@ test('Hotel page login',async ({pom})=>{
 
 //const pom = new PageObjectManager(page)
 
- await pom.loginHotel.homePage()
+ //await pom.loginHotel.homePage()
 
  await pom.loginHotel.build2Page()
 
